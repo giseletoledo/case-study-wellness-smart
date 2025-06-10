@@ -1,6 +1,6 @@
 # Google Data Analytics Capstone
 
-Project from the coursera course Google Data Analytics
+Project from the Coursera course Google Data Analytics
 
 2 tasks - first pdf file about a journal about all the courses from Google Data Analytics and a second file from case study created with R.
 
