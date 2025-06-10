@@ -1,2 +1,5 @@
-# case-study-wellness-smart
+# Case Study
 Project from the coursera course Google Data Analytics
+
+
+
