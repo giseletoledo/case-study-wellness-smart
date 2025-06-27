@@ -15,7 +15,7 @@ Project from the Coursera course Google Data Analytics
 This notebook presents an end-to-end exploratory analysis of Fitbit data to inform Bellabeat’s marketing strategy. The goal is to understand how activity levels, sleep, and weight interact, and how this supports the use of Bellabeat’s Leaf wellness tracker.
 
 ## 🔗 Project Link
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]([https://www.kaggle.com/your-username/project-name](https://www.kaggle.com/code/giselet/analise-fitbit-bellabeat))
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/giselet/analise-fitbit-bellabeat)
 
 
 
